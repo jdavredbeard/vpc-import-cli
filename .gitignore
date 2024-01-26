@@ -1,0 +1,7 @@
+.terraform/*
+bin/*
+.terraform.lock.hcl
+terraform.tfstate
+import-vpc-cli
+template-resources.txt
+temp.import-output
